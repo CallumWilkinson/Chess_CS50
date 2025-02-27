@@ -1,0 +1,30 @@
+{
+  "name": "chess_cs50",
+  "version": "1.0.0",
+  "description": "Final project for CS50",
+  "main": "app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CallumWilkinson/Chess_CS50.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CallumWilkinson/Chess_CS50/issues"
+  },
+  "homepage": "https://github.com/CallumWilkinson/Chess_CS50#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.21.0",
+    "eslint": "^9.21.0",
+    "globals": "^16.0.0"
+  }
+
+}
